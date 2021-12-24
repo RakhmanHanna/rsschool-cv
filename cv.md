@@ -23,6 +23,7 @@
 - Figma
 - Ant-Design
 - React
+- TypeScript
 
 ### Courses:
 
