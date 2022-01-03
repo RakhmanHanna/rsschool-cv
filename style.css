@@ -4,6 +4,9 @@ body {
 header {
   text-align: center;
 }
+header a {
+  text-decoration: none;
+}
 .main {
   display: flex;
   flex-direction: row;
@@ -26,10 +29,13 @@ img {
   text-decoration: none;
   color: white;
 }
+
 .about {
   width: 70%;
+  padding: 90px;
 }
 .contact-info {
-  padding: 30px;
+  padding: 50px 30px 0 0;
   text-align: start;
+  font-size: 14px;
 }
