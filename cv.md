@@ -10,10 +10,6 @@
 - [LinkedIn](https://www.linkedin.com/in/anna-rakhman-4aa922179/)
 - [GitHub](https://github.com/RakhmanHanna)
 
-### Briefly About Myself:
-
-##### Every day I improve my skills and expand them learning new technologies. Today I open to suggestions. I'm extremly organized person who is focused on producing results.
-
 ### Skills and Proficiency:
 
 - HTML5, CSS3
@@ -36,3 +32,7 @@
 
 - Russian - Native
 - English - Intermediate
+
+### Briefly About Myself:
+
+#### Every day I improve my skills and expand them learning new technologies. I'm organized person who is focused on producing results. Today I open to suggestions.
